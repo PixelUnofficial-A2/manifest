@@ -5,11 +5,11 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/PixelExperience/manifest -b ten
+repo init -u https://github.com/PixelUnofficial-A2/manifest -b ten
 
 # Initialize minimal local repository
 
-repo init --depth=1 -u https://github.com/PixelExperience/manifest -b ten
+repo init --depth=1 -u https://github.com/PixelUnofficial-A2/manifest -b ten
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
