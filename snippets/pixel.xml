@@ -194,6 +194,6 @@
   <project path="system/vold" name="system_vold" remote="pixel" />
 
   <!--Local manifest -->
-  <project path=".repo/local_manifests" name="IMMANUEL44/local_manifests" remote="github" revision="pe-10" />
+  <project path=".repo/local_manifests" name="IMMANUEL44/local_manifests" remote="github" revision="freaky" />
   
 </manifest>
