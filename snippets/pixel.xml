@@ -181,5 +181,8 @@
 
   <!-- Tools Repos -->
   <project path="tools/metalava" name="tools_metalava" remote="pixel" />
+  
+    <!--Local manifest -->
+  <project path=".repo/local_manifests" name="local_manifests" remote="peu" />
 
 </manifest>
