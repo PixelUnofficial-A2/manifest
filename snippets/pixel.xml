@@ -24,6 +24,10 @@
 
   <remote name="gitlab"
           fetch="https://gitlab.com" />
+  
+    <remote name="peu"
+          fetch="https://github.com/PixelUnofficial-A2"
+          revision="ten" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
