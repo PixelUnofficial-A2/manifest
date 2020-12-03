@@ -27,7 +27,7 @@
   
     <remote name="peu"
           fetch="https://github.com/PixelUnofficial-A2"
-          revision="ten" />
+          revision="eleven" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
